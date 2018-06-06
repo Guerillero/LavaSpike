@@ -1,15 +1,15 @@
 Please post decklists, tournament results, tips, wishes, or anything related to Burn decks in any format.
 
-##Primers/Articles/Videos
+## Primers/Articles/Videos
 
-###General
+### General
 
 - [Who's The Beatdown?](http://www.starcitygames.com/magic/fundamentals/3692_Whos_The_Beatdown.html) (1999)
 - [The Philosophy of Fire](http://www.starcitygames.com/magic/standard/7157_The_Philosophy_of_Fire.html) (2004)
 - [Patrick Sullivan vs Ross Merriam](https://www.youtube.com/watch?v=rhWXEKbtCiw&feature=youtu.be) (2012)
 - [Burn vs. Counters](http://www.starcitygames.com/article/27944_Burn) (2014)
 
-###Modern
+### Modern
 
 Primers
 
@@ -31,14 +31,14 @@ Sideboard
 Comprehensive Modern Burn Sideboard Guide](https://www.reddit.com/r/LavaSpike/comments/7uizr8/) (2018)
 - [Modern Burn Sideboard Options List](https://www.reddit.com/r/LavaSpike/comments/7gy7cz/) (2017)
 
-###Legacy
+### Legacy
 
 - [Fight Everything with Fire: A Burn Primer](https://www.reddit.com/r/MTGLegacy/comments/4657hg/fight_everything_with_fire_a_burn_primer/?st=jb2dy2p1&sh=9453a1f8) (2016)
 
-###Pauper
+### Pauper
 - ???
 
-###Budget
+### Budget
 - [Budget Magic: $67 (13 tix) Modern Mono-Red Burn](https://www.mtggoldfish.com/articles/budget-magic-67-13-tix-modern-mono-red-burn) (2016)
 
 ## Other MTG Archetype Subreddits
