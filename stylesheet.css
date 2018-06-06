@@ -1,0 +1,106 @@
+.titlebox .word {
+    display: none
+}
+.titlebox .number:after {
+    content: " Points of Damage Dealt"
+}
+.titlebox .users-online span.number:after {
+    content: " Lavamancers"
+}
+#header {
+    background-image: url(%%LavaSpike-Header%%);
+    background-repeat: no-repeat;
+    background-position: left 19px;
+    height: 100px;
+    background-color: #963429;
+}
+#header-bottom-left {
+    position: absolute;
+    bottom: 0
+}
+.pagename a {
+    color: #fff
+}
+.side {
+    background: url(%%LavaSpike%%) no-repeat 0 10px;
+    background-size: contain;
+    padding-top: 256px;
+}
+
+.flair { background: url(%%spritesheet%%) no-repeat -9999px;
+    border: 0;
+    padding: 0;
+}
+
+
+
+.flair-red{
+    width: 20px;
+    height: 20px;
+    background-position: -0px -0px;
+    color: red;
+}
+.flair-wotcflair {
+    border: 0;
+    background: transparent url(%%wotc%%) center center no-repeat;
+    position: relative;
+    top: 5px;
+    height: 29px;
+    width: 45px;
+    text-indent: -9999px;
+}
+
+
+.linkflair-Modern .linkflairlabel {
+    background-color: #FF5733;
+    font-size: 11px;
+    font-weight: bold;
+    color:#000000;
+    border-color: #000000;
+    border-width: 1px;
+    border-radius: 3px;}
+
+.linkflair-Legacy .linkflairlabel {
+    background-color: #add5ab;
+    font-size: 11px;
+    font-weight: bold;
+    color:#000000;
+    border-color: #000000;
+    border-width: 1px;
+    border-radius: 3px;}
+
+.linkflair-Standard .linkflairlabel {
+    background-color: #FF33F9;
+    font-size: 11px;
+    font-weight: bold;
+    color:#000000;
+    border-color: #000000;
+    border-width: 1px;
+    border-radius: 3px;}
+
+.linkflair-Meta .linkflairlabel {
+    background-color: #33B2FF;
+    font-size: 11px;
+    font-weight: bold;
+    color:#000000;
+    border-color: #000000;
+    border-width: 1px;
+    border-radius: 3px;}
+
+.linkflair-Card .linkflairlabel {
+    background-color: #000000;
+    font-size: 11px;
+    font-weight: bold;
+    color:#FFFCFC;
+    border-color: #000000;
+    border-width: 1px;
+    border-radius: 3px;}
+
+.linkflair-Pauper .linkflairlabel {
+    background-color: #ff8d02;
+    font-size: 11px;
+    font-weight: bold;
+    color:#000000;
+    border-color: #000000;
+    border-width: 1px;
+    border-radius: 3px;}
