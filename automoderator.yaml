@@ -1,0 +1,37 @@
+---
+~title: ["Modern","MODERN", "modern", "Legacy", "LEGACY", "legacy", "[Meta]", "[META]", "[meta]", "Standard", "standard", "STANDARD", "[Card]", "[CARD]", "[card]", "Pauper", "PAUPER", "pauper"]
+action: remove
+moderators_exempt: false
+action_reason: Incorrect title
+comment: |
+    THIS IS AN AUTOMATED MESSAGE!
+
+    Your submission has been automatically removed.
+
+    This has occurred because your title does not fit the required format.
+
+    If you have questions, please visit [this post](https://www.reddit.com/r/LavaSpike/comments/8ox6fm/) or message the moderators.
+---
+title: ["Modern","MODERN", "modern"]
+moderators_exempt: false
+set_flair: ["Modern","Modern"]
+---
+title: ["Legacy", "LEGACY", "legacy"]
+moderators_exempt: false
+set_flair: ["Legacy","Legacy"]
+---
+title: ["Standard", "standard", "STANDARD"]
+moderators_exempt: false
+set_flair: ["Standard","Standard"]
+---
+title: ["[Card]", "[CARD]", "[card]"]
+moderators_exempt: false
+set_flair: ["Card","Card"]
+---
+title: ["[Meta]", "[META]", "[meta]"]
+moderators_exempt: false
+set_flair: ["Meta","Meta"]
+---
+title: ["Pauper", "PAUPER", "pauper"]
+moderators_exempt: false
+set_flair: ["Pauper","Pauper"]
